@@ -1,1 +1,1 @@
-assets not included
+model assets not included
